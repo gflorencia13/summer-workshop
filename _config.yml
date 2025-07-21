@@ -8,4 +8,4 @@ description: Great site about Jekyll on Github Pages
 
 # Build settings
 
-remore_theme: jekyll/minima
+remote_theme: jekyll/minima
